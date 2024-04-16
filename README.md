@@ -73,7 +73,7 @@ list second screen here]
 
 ## Wireframes
 
-<img src="https://hackmd.io/_uploads/Sy-9JPheR.jpg](https://github.com/sadiaNz/Capstone-SelfAware/assets/123831842/6e528a22-6ee4-435c-acbe-9a448466cdef" width=600>
+<img src="https://github.com/sadiaNz/Capstone-SelfAware/assets/123831842/6e528a22-6ee4-435c-acbe-9a448466cdef" width=600>
 
 
 
