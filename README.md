@@ -9,7 +9,9 @@ Original App Design Project - README Template
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Wireframes)
-4. [Schema](#Schema)
+4. [Sprint Plan](#Sprint)
+5. [Schema](#Schema)
+
 
 ## Overview
 
@@ -75,8 +77,9 @@ list second screen here]
 
 <img src="https://github.com/sadiaNz/Capstone-SelfAware/assets/123831842/6e528a22-6ee4-435c-acbe-9a448466cdef" width=600>
 
+## Sprint
 
-
+* user can go to breathing exercise and user profile screen
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
