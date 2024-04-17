@@ -78,23 +78,26 @@ list second screen here]
 <img src="https://github.com/sadiaNz/Capstone-SelfAware/assets/123831842/6e528a22-6ee4-435c-acbe-9a448466cdef" width=600>
 
 ## Sprint
-###Week 1: Planning and Setup
+** Week 1: Planning and Setup ** 
 
 * Project setup, including creating a new Xcode project, setting up version control (e.g., Git), and organizing the project structure.
 * Define the data models for User Profile, Journal Entries, and Reminder settings.
 * Begin implementing the basic UI layouts for the main screens: Home screen, Guided Breathing Exercises, Daily Journal, User Profile, and Settings.
 * user can go to breathing exercise and user profile screen
-###Week 2: Core Features Implementation
+  
+** Week 2: Core Features Implementation** 
 
 * Implement the backend functionality for saving and retrieving journal entries.
 * Integrate guided breathing exercises functionality, including different breathing techniques and timers.
 * Implement user profile features, including customization options, tracking achievements, and setting mindfulness goals.
-###Week 3: Enhancements and Refinements
+
+** Week 3: Enhancements and Refinements ** 
 
 * Implement customizable reminders feature, allowing users to set reminders for breathing exercises and journaling.
 * Add journal prompts functionality, integrating a daily prompt generator and UI for users to view and respond to prompts.
 * Work on progress tracking, implementing charts and statistics to visualize user engagement and progress over time.
-###Week 4: Testing and Polishing
+
+** Week 4: Testing and Polishing ** 
 
 * Conduct comprehensive testing of the app's functionality, including UI/UX, data persistence, and integration of all features.
 * Address any bugs or issues identified during testing, and perform optimization for performance and stability.
