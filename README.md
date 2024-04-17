@@ -76,6 +76,8 @@ list second screen here]
 ## Wireframes
 
 <img src="https://github.com/sadiaNz/Capstone-SelfAware/assets/123831842/6e528a22-6ee4-435c-acbe-9a448466cdef" width=600>
+
+## Gif
 [x] Gif: https://imgur.com/a/NrCdu1L.gif
 
 ## Sprint
