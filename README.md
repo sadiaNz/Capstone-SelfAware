@@ -70,7 +70,9 @@ Original App Design Project - README Template
 <img src="https://github.com/sadiaNz/Capstone-SelfAware/assets/123831842/6e528a22-6ee4-435c-acbe-9a448466cdef" width=600>
 
 ## Gif
-[x] Gif: https://imgur.com/a/NrCdu1L.gif
+[x] Gif:  https://imgur.com/a/NrCdu1L.gif
+[x] Gif2: https://imgur.com/a/2necP3n.gif
+[x] Gif3: https://imgur.com/a/I93Ah4b.gif
 
 ## Sprint
 **Week 1: Planning and Setup**
