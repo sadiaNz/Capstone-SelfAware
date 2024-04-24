@@ -48,14 +48,6 @@ Original App Design Project - README Template
 - Mood Tracking: Keep track of mood fluctuations and emotional states over time with mood tracking features integrated into the journaling function, allowing users to identify triggers and patterns.
 
 
-### 2. Screen Archetypes
-
-- [X] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
 
 ### 3. Navigation
 
@@ -68,7 +60,7 @@ list second screen here]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Home Screen
+- [X] Home Screen
 * user can go to breathing exercise and user profile screen
 
 
@@ -83,17 +75,17 @@ list second screen here]
 ## Sprint
 **Week 1: Planning and Setup**
 
-  - [ ] Project setup, including creating a new Xcode project, setting up version control (e.g., Git), and organizing the project structure.
+  - [X] Project setup, including creating a new Xcode project, setting up version control (e.g., Git), and organizing the project structure.
 * Define the data models for User Profile, Journal Entries, and Reminder settings.
 * Begin implementing the basic UI layouts for the main screens: Home screen, Guided Breathing Exercises, Daily Journal, User Profile, and Settings.
 * user can go to breathing exercise and user profile screen
 
 **Week 2: Core Features Implementation**
- - [ ] design login screens on storyboard
- - [ ] integrate firebase with the project
- - [ ] create sign in functionality
- - [ ] create sign up email functionality
- - [ ] write alert pop message
+ - [X] design login screens on storyboard
+ - [X] integrate firebase with the project
+ - [X] create sign in functionality
+ - [X] create sign up email functionality
+ - [X] write alert pop message
        
 
 **Week 3: Enhancements and Refinements**
