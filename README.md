@@ -50,7 +50,7 @@ Original App Design Project - README Template
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
+- [X] [list first screen here]
 * [list associated required story here]
 * ...
 list second screen here]
