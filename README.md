@@ -80,7 +80,7 @@ Original App Design Project - README Template
 * Begin implementing the basic UI layouts for the main screens: Home screen, Guided Breathing Exercises, Daily Journal, User Profile, and Settings.
 * user can go to breathing exercise and user profile screen
 
-**Week 2: Core Features Implementation**
+**Week 2: User register in login feature with firebase**
  - [X] design login screens on storyboard
  - [X] integrate firebase with the project
  - [X] create sign in functionality
@@ -88,7 +88,7 @@ Original App Design Project - README Template
  - [X] write alert pop message
        
 
-**Week 3: Enhancements and Refinements**
+**Week 3: core fearture implmentation**
 
  - [ ] Integrate guided breathing exercises functionality, including different breathing techniques and timers.
  - [ ] Implement user profile features, including customization options, tracking achievements, and setting mindfulness goals
