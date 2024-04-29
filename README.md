@@ -81,7 +81,8 @@ Original App Design Project - README Template
   - [X] Project setup, including creating a new Xcode project, setting up version control (e.g., Git), and organizing the project structure.
 * Define the data models for User Profile, Journal Entries, and Reminder settings.
 * Begin implementing the basic UI layouts for the main screens: Home screen, Guided Breathing Exercises, Daily Journal, User Profile, and Settings.
-* user can go to breathing exercise and user profile screen
+
+
 
 **Week 2: Design storyboard for screen**
  - [X] design launch screen
