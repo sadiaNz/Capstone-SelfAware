@@ -77,9 +77,9 @@ Original App Design Project - README Template
 ## week2 Gifs
 ## Gif1:
 https://imgur.com/a/CcbXSvE.gif
-##Gif2:
+## Gif2:
 https://imgur.com/a/lUtpujF.gif
-##Gif3:
+## Gif3:
 https://imgur.com/a/qXPmzzK.gif
 
 ## Sprint
