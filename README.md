@@ -83,26 +83,26 @@ Original App Design Project - README Template
 * Begin implementing the basic UI layouts for the main screens: Home screen, Guided Breathing Exercises, Daily Journal, User Profile, and Settings.
 * user can go to breathing exercise and user profile screen
 
-**Week 2: User register in login feature with firebase**
- - [X] design login screens on storyboard
- - [X] integrate firebase with the project
- - [X] create sign in functionality
- - [X] create sign up email functionality
+**Week 2: Design storyboard for screen**
+ - [X] design launch screen
+ - [X] design navigation screen storyboard
+ - [X] add tab navigatioj
  - [X] write alert pop message
        
 
 **Week 3: core fearture implmentation**
 
- - [ ] Integrate guided breathing exercises functionality, including different breathing techniques and timers.
- - [ ] Implement user profile features, including customization options, tracking achievements, and setting mindfulness goals
- - [ ] Implement customizable reminders feature, allowing users to set reminders for breathing exercises and journaling.
- - [ ]  Add journal prompts functionality, integrating a daily prompt generator and UI for users to view and respond to prompts.
- - [ ]  Work on progress tracking, implementing charts and statistics to visualize user engagement and progress over time.
+ - [X] Write view controllers to navigate between different screen
+ - [X] Main screen funcationality with mood record
+ - [X] Add and play music
+ - [X] dairy writing, saving and viewing 
+ - [X] Add resources and click on it to open in the browser
 
-**Week 4: Testing and Polishing**
+**Week 4: Future sprint - Testing and Polishing**
 
  - [ ]  Conduct comprehensive testing of the app's functionality, including UI/UX, data persistence, and integration of all features.
- - [ ]  Address any bugs or issues identified during testing, and perform optimization for performance and stability.
+ - [ ]  Polisging UI
+ - [ ]  Add backend functionalit
  - [ ]  Finalize app design, including refining UI elements, adding animations/transitions, and ensuring consistent branding.
 
 ### [BONUS] Digital Wireframes & Mockups
