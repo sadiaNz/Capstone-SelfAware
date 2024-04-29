@@ -100,8 +100,8 @@ Original App Design Project - README Template
 
 **Week 4: Future sprint - Testing and Polishing**
 
- - [ ]  Conduct comprehensive testing of the app's functionality, including UI/UX, data persistence, and integration of all features.
- - [ ]  Polisging UI
+ - [ ]  adding breathing exercise
+ - [ ]  Polishing UI
  - [ ]  Add backend functionalit
  - [ ]  Finalize app design, including refining UI elements, adding animations/transitions, and ensuring consistent branding.
 
